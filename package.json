@@ -1,0 +1,27 @@
+{
+  "name": "internshipbackend-week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahedmouhaffell/InternshipBackend-Week4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/shahedmouhaffell/InternshipBackend-Week4/issues"
+  },
+  "homepage": "https://github.com/shahedmouhaffell/InternshipBackend-Week4#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "typescript": "^6.0.3"
+  }
+}
